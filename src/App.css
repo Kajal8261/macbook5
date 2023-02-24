@@ -35,4 +35,36 @@
   to {
     transform: rotate(360deg);
   }
+  
+}
+.Header{
+  background-color:gray;
+  margin-left: -12px;
+  padding-bottom: 5px;
+}
+.sidebar{
+  background-color: rgb(255, 255, 255);
+  height: 100rem;
+}
+.sidebarIcon{
+  width: 30px;
+  height: 40px;
+}
+.Heading{
+  font-weight: bold;
+  font-size: 20px; 
+  margin-right: 10px;
+}
+.Email{
+  font-size: 12px;
+}
+.boxRightBorder{
+  border-right: 1px solid #d1cece;;
+}
+.Label{
+  color:#7f7a7a
+}
+.documentSection{
+  color:green;
+  font-weight:bold
 }
